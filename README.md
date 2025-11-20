@@ -25,7 +25,48 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=200&section=header&text=المارد%20الرقمي&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=asrar-mared&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&rank_icon=github"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asrar-mared&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b6b&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff"/>
+</td>
+</tr>
+</table>
 
+<!-- Language Stats -->
+### 📈 **إحصائيات اللغات المستخدمة**
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrar-mared&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+</td>
+<td width="50%">
+
+**📊 توزيع اللغات:**
+
+🟡 **JavaScript** - 41.27%  
+🔴 **C++** - 37.11%  
+⚫ **C** - 14.46%  
+🔵 **Python** - 5.65%  
+⚪ **Roff** - 1.12%  
+🟢 **Shell** - 0.39%
+
+</td>
+</tr>
+</table>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asrar-mared&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&custom_title=مساهمات%20المارد%20الرقمي%20خلال%20العام" width="100%"/>
+
+<!-- GitHub Stats Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asrar-mared&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asrar-mared&theme=radical" width="48%"/>
+
+</div>
 ---
 
 
@@ -51,6 +92,61 @@
 [![Visitors](https://img.shields.io/badge/زوار_الملف-1,163-purple?style=for-the-badge)](/)
 
 </div>
+
+# 🛡️ أسرار المحارب الرقمي للأمن السيبراني 🔐
+
+<img src="https://i.imgur.com/cTG7qPR.jpg" alt="Profile Banner" width="200" style="border-radius: 50%; border: 5px solid #00ff00; box-shadow: 0 0 30px #00ff00;"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+مطور+احترافي;%F0%9F%94%92+خبير+أمن+سيبراني;%F0%9F%9A%80+مبتكر+رقمي;%E2%9A%A1+مبدع+حلول+تقنية)](https://git.io/typing-svg)
+
+---
+
+### 🌟 **منصة الأمن السيبراني الأقوى في العالم العربي** 🌟
+
+[![Version](https://img.shields.io/badge/الإصدار-v2.5.0-blue?style=for-the-badge&logo=v&logoColor=white)](https://github.com/asrar-mared)
+[![License](https://img.shields.io/badge/الترخيص-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/asrar-mared?style=for-the-badge&logo=github&color=yellow)](https://github.com/asrar-mared)
+[![Profile Views](https://komarev.com/ghpvc/?username=asrar-mared&color=blueviolet&style=for-the-badge&label=زوار+الملف)](https://github.com/asrar-mared)
+
+</div>
+
+---
+## 👨‍💻 من أنا؟
+
+<img src="https://i.imgur.com/QF81bSQ.jpg" alt="Nike49424" width="200" style="border-radius: 15px; border: 5px solid #00FF41; box-shadow: 0 0 30px rgba(0,255,65,0.5); margin: 20px 0;"/>
+
+مرحباً! أنا **Warrior** - مطور محترف ومتخصص في الأمن السيبراني مع خبرة تزيد عن 8 سنوات في تطوير الحلول التقنية المتقدمة. شغفي الحقيقي هو بناء أنظمة آمنة وقابلة للتوسع تحل مشاكل حقيقية
+<div align="center">
+
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=أسرار%20المارد%20الرقمي&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🛡️%20حارس%20الأمن%20السيبراني%20🔐&descSize=25&descAlignY=55" width="100%"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=🔐+خبير+أمن+سيبراني+معتمد+دولياً;💻+مطور+Full+Stack+محترف;🤖+متخصص+في+الذكاء+الاصطناعي;⚡+8%2B+سنوات+خبرة+في+الأمن+الرقمي;🌍+حماية+المستقبل+الرقمي+العربي)](https://git.io/typing-svg)
+
+<!-- Profile Image -->
+<img src="https://i.imgur.com/cTG7qPR.jpg" alt="NIKE49424" width="250" style="border-radius: 50%; border: 6px solid #00ff41; box-shadow: 0 0 50px #00ff41, 0 0 100px #00ff41;"/>
+
+<!-- Badges Row -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=asrar-mared&color=00ff41&style=for-the-badge&label=VISITORS"/>
+<img src="https://img.shields.io/badge/الإصدار-v2.5.0-00ff41?style=for-the-badge&logo=v&logoColor=white"/>
+<img src="https://img.shields.io/badge/الحالة-نشط_🔥-00ff41?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/asrar-mared?style=for-the-badge&logo=github&color=yellow&label=النجوم"/>
+<img src="https://img.shields.io/github/followers/asrar-mared?style=for-the-badge&logo=github&color=blue&label=المتابعون"/>
+</p>
+
+---
+
+### 🌟 **منصة الأمن السيبراني الأقوى في العالم العربي** 🌟
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-مرحب_بها-00ff41.svg?style=for-the-badge)](https://github.com/asrar-mared/pulls)
+[![Open Source](https://img.shields.io/badge/Open_Source-❤️-red?style=for-the-badge)](https://github.com/asrar-mared)
+
+</div>
+
+---
 
 ---
 
@@ -193,6 +289,16 @@
 ✅ تأمين مستودع بيانات **Microsoft Fabric**
 
 <div align="center">
+
+## 📊 إحصائيات المشاريع
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nike49424&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nike49424&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nike49424&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nike49424&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF)
+
+---
 
 ### 🎯 "Code is poetry written in logic"
 
@@ -385,6 +491,55 @@ Copyright (c) 2025 المارد الرقمي
 
 ---
 
+🟢 **Shell** - 0.39%
+
+</td>
+</tr>
+</table>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asrar-mared&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&custom_title=مساهمات%20المارد%20الرقمي%20خلال%20العام" width="100%"/>
+
+<!-- GitHub Stats Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asrar-mared&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asrar-mared&theme=radical" width="48%"/>
+
+</div>
+
+---
+
+## 🏆 **الجوائز والإنجازات - Trophy Cabinet**
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=asrar-mared&theme=radical&no-frame=true&no-bg=true&row=2&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Stars,Followers,Repositories,Issues)
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/><br/>
+<b>⭐ 2 Stars</b><br/>
+<sub>إجمالي النجوم</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
+<b>🔥 127 Commits</b><br/>
+<sub>مساهمات السنة</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/pull-request.png" width="60"/><br/>
+<b>🎯 1 PR</b><br/>
+<sub>طلبات السحب</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60"/><br/>
+<b>📈 0 Issues</b><br/>
+<sub>المشاكل المحلولة</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
