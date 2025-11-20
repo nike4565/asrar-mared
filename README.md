@@ -547,8 +547,8 @@ Copyright (c) 2025 المارد الرقمي
 
 **المارد الرقمي – أسرار مراد | Digital Warrior - Asrar Mared**
 
-[![Made with](https://img.shields.io/badge/Made_with-❤️_&_⚡-red?style=for-the-badge)]()
+[![Made with]()]()
 
 *آخر تحديث: نوفمبر 2025 | Last Update: November 2025*
 
-</div>
+![1000247775](https://github.com/user-attachments/assets/567a1aaa-95ea-40eb-91ed-b02c9ec8f13f)
