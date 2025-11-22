@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ "محارب" ]
+    branches: [ "Warrior" ]
   pull_request:
-    branches: [ "محارب" ]
+    branches: [ "Warrior" ]
   workflow_dispatch:
 
 jobs:
