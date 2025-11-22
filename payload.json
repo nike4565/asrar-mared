@@ -1,0 +1,9 @@
+{
+  "security_and_analysis": {
+    "dependabot_alerts": { "status": "enabled" },
+    "dependabot_security_updates": { "status": "enabled" },
+    "dependency_graph": { "status": "enabled" },
+    "secret_scanning": { "status": "enabled" },
+    "secret_scanning_push_protection": { "status": "enabled" }
+  }
+}
