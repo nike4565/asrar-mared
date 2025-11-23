@@ -552,3 +552,15 @@ Copyright (c) 2025 المارد الرقمي
 *آخر تحديث: نوفمبر 2025 | Last Update: November 2025*
 
 ![1000247775](https://github.com/user-attachments/assets/567a1aaa-95ea-40eb-91ed-b02c9ec8f13f)
+
+---
+
+## 💖 المساهمون الرائعون | Amazing Contributors
+
+**كل المساهمين، المساهمين كانت صغيرة، تصنع فرقاً!** 🌟
+
+<a href="https://github.com/asrar-mared/project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=asrar-mared/ens-profile-warrior" />
+</a>
+
+---
