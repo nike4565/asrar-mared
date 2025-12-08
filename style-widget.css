@@ -1,0 +1,20 @@
+/* Security Widget Style */
+.code-block {
+  background: #111;        /* خلفية سوداء */
+  color: #0f0;             /* نص أخضر */
+  padding: 15px;           /* مسافة داخلية */
+  border: 2px solid #0f0;  /* إطار أخضر */
+  border-radius: 6px;      /* زوايا مستديرة */
+  font-family: monospace;  /* خط طرفية */
+  overflow-x: auto;        /* تمرير أفقي */
+}
+
+.code-block .widget {
+  animation: blink 1s infinite; /* وميض للتحذير */
+}
+
+@keyframes blink {
+  0%   { opacity: 1; }
+  50%  { opacity: 0.2; }
+  100% { opacity: 1; }
+}
