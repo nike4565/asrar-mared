@@ -16,7 +16,11 @@
 <img src="https://raw.githubusercontent.com/asrar-mared /Digital-warrior-secrets/main/assets/logo.png" alt="شعار المارد الرقمي" width="400"/>
 
 ### 🌟 منصة الأمن السيبراني الأقوى في العالم العربي 🌟
+## 🛡️ مشروع درع زايد – Zayed Shield
 
+🎯 مشروع مفتوح المصدر لتعزيز الأمن السيبراني لدولة الإمارات العربية المتحدة 🇦🇪  
+📂 GitHub Repository: [Zayed Shield – درع زايد](https://github.com/asrar-mared/Zayed-Shield)  
+📄 [📜 سجل الإصلاحات الأمنية – 11 ثغرة حرجة + تنبيه 2026](https://github.com/asrar-mared/Zayed-Shield/blob/main/docs/SECURITY-FIX-LOG-v20.1.2.md)
 [![النسخة](https://img.shields.io/badge/الإصدار-v2.5.0-blue?style=for-the-badge&logo=semver)](https://github.com/asrar-mared/Digital-warrior-secrets/releases)
 [![الترخيص](https://img.shields.io/badge/الترخيص-MIT-green?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 [![التحميلات](https://img.shields.io/github/downloads/asrar-mared/Digital-warrior-secrets/total?style=for-the-badge&logo=github)](https://github.com/asrar-mared/Digital-warrior-secrets)
