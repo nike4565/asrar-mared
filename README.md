@@ -88,6 +88,7 @@
 ![Header Image](https://via.placeholder.com/800x300/0a0a0a/00ff00?text=Nike+49424+-+Digital+Warrior)
 
 # 💻 مطور احترافي | Professional Developer
+<img width="561" height="955" alt="1000437649" src="https://github.com/user-attachments/assets/d8f0c746-ab70-4b60-8d9e-bd85841bf4b7" />
 
 **🛡️ منصة الأمن السيبراني الأقوى في العالم العربي 🛡️**
 
