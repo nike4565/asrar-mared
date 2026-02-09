@@ -8,9 +8,8 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║            🎖️  CRITICAL SECURITY VULNERABILITY  🛡️                ║
-║                   اكتشاف ثغرة أمنية حرجة                         ║
-║                                                                   ║
+║            🎖️  CRITICAL SECURITY VULNERABILITY  🛡️                                 
+║                    asrar-mared                                             
 ║                    CVE-2024-3727                                  ║
 ║              Security Vulnerability Researcher                    ║
 ║                                                                   ║
@@ -261,7 +260,6 @@ This discovery has been officially recognized by:
  * 
  * It's like أم كلثوم singing "شكلك ثاني" 🎤
  * The whole room stops and listens... 
- */
 
 class SecurityAchievement {
   constructor() {
