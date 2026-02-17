@@ -136,6 +136,12 @@ timeline
 </div>
 
 ---
+## 📊 GitHub Stats
+
+![Stats Dark](./profile/stats-dark.svg#gh-dark-mode-only)
+![Stats Light](./profile/stats-light.svg#gh-light-mode-only)
+
+---
 
 ### 🏅 **Achievement Badges** | شارات الإنجاز
 
