@@ -223,9 +223,6 @@ critical infrastructure
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
----
-
 ### 🌟 **Hall of Fame** | قاعة المشاهير
 
 <div align="center">
@@ -244,141 +241,9 @@ This discovery has been officially recognized by:
 **"باحث واحد، اكتشاف واحد، آلاف محميون"**
 
 </div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Security%20First&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
-
----
-
-<!-- Script للعرض التفاعلي الجميل 🎭 -->
-
-<div align="center">
-
-## 🎭 عندما يلتقي الفن بالأمان | When Art Meets Security
-
-```javascript
-/**
- * 🎵 When a security researcher has a CVE...
- * لما باحث أمني يكون معاه CVE...
- * 
- * It's like أم كلثوم singing "شكلك ثاني" 🎤
- * The whole room stops and listens... 
-
-class SecurityAchievement {
-  constructor() {
-    this.cve = 'CVE-2024-3727';
-    this.status = '✨ LEGENDARY ✨';
-    this.vibe = '🎵 شكلك ثاني 🎵';
-  }
-
-  celebrate() {
-    console.log(`
-      🎖️ ═══════════════════════════════════════ 🎖️
-      
-           When you walk in with a CVE number:
-           لما تدخل ومعاك رقم CVE:
-      
-           🎵 "شكلك ثاني... شكلك ثاني" 🎵
-           
-           Everyone: "Wait... is that a REAL CVE?! 😲"
-           الكل: "استنى... ده CVE حقيقي؟! 😲"
-           
-           You: *casually shows MSRC coordination* 😎
-           أنت: *يعرض تنسيق MSRC ببرود* 😎
-           
-           The room: *standing ovation* 👏👏👏
-           القاعة: *تصفيق واقف* 👏👏👏
-      
-      🎖️ ═══════════════════════════════════════ 🎖️
-    `);
-  }
-
-  getRecognition() {
-    return {
-      level: 'ELITE',
-      respect: '∞',
-      coolness: 'MAXIMUM',
-      umKalthoumApproval: true,
-      message: 'شكلك ثاني لما معاك CVE مع Microsoft! 🎵✨'
-    };
-  }
-}
-
-const researcher = new SecurityAchievement();
-researcher.celebrate();
-
-/**
- * 🎭 The Performance:
- * 
- * Scene: Security Conference
- * 
- * Speaker: "And our next presenter discovered CVE-2024-3727..."
- * 
- * *room goes quiet*
- * *spotlight turns on*
- * *أم كلثوم music starts playing*
- * 
- * 🎵 "شكلك ثاني... شكلك ثاني" 🎵
- * 
- * Researcher: *walks up like a boss* 😎
- * 
- * Audience: "He's different... شكله ثاني فعلاً!" 
- * 
- * 🎖️ LEGENDARY STATUS UNLOCKED 🎖️
- */
-
-// Pro tip: Frame your CVE certificate like أم كلثوم's gold records 🏆
-const advice = {
-  do: [
-    '✅ Print the CVE certificate',
-    '✅ Frame it in gold',
-    '✅ Hang it where everyone can see',
-    '✅ Play أم كلثوم when people ask about it',
-    '✅ Simply say: "شكلي ثاني" 😎'
-  ],
-  dont: [
-    '❌ Be modest (you earned this!)',
-    '❌ Hide it (show it off!)',
-    '❌ Forget to celebrate',
-    '❌ Stop there (find more!)'
-  ]
-};
-
-console.log('🎵 Remember: Not everyone has a CVE with Microsoft! 🎵');
-console.log('تذكر: مش كل الناس عندهم CVE مع Microsoft! 🎖️');
-```
-
----
-
-### 🎤 The Vibe Check | فحص الطاقة
-
-```
-When someone asks: "What do you do?"
-
-Normal developer: "I write code..."
-عادي: "بكتب كود..."
-
-You: "I found CVE-2024-3727 with Microsoft MSRC" 😎
-أنت: "اكتشفت CVE-2024-3727 مع Microsoft MSRC" 😎
-
-Them: *jaw drops* 😲
-هو: *فكه يقع* 😲
-
-أم كلثوم in the background: 🎵 "شكلك ثاني" 🎵
-
-You: *puts on sunglasses and walks away* 😎🕶️
-أنت: *يلبس نظارة ويمشي* 😎🕶️
-
-LEGENDARY STATUS ✨
-```
-
----
-
-### 🏆 Achievement Unlocked | إنجاز تم فتحه
-
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
@@ -399,9 +264,6 @@ LEGENDARY STATUS ✨
 ```
 
 </div>
-
----
-
 <div align="center">
 
 **🎵 "شكلك ثاني لما معاك CVE" 🎵**
@@ -425,9 +287,6 @@ LEGENDARY STATUS ✨
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Innovation+Explorer)
 
 </div>
-
----
-
 # 🧞‍♂️ أسرار المحارب الرقمي للأمن السيبراني 🛡️
 
 <img src="https://raw.githubusercontent.com/asrar-mared /Digital-warrior-secrets/main/assets/logo.png" alt="شعار المارد الرقمي" width="400"/>
