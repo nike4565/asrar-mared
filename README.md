@@ -1,3 +1,282 @@
+
+<!-- 🎖️ Security Achievement Section - للوضع في أعلى README.md -->
+
+<div align="center">
+
+## 🏆 Security Achievement | إنجاز أمني متميز
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║            🎖️  CRITICAL SECURITY VULNERABILITY  🛡️                                 
+║                    asrar-mared                                             
+║                    CVE-2024-3727                                  ║
+║              Security Vulnerability Researcher                    ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=CVE-2024-3727&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+
+---
+
+### 🔐 **Certified Security Researcher** | باحث أمني معتمد
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🎯 **The Discovery** | الاكتشاف
+
+![CVE](https://img.shields.io/badge/CVE-2024--3727-critical?style=for-the-badge&logo=security&logoColor=white&labelColor=8B0000&color=DC143C)
+![Severity](https://img.shields.io/badge/Severity-CRITICAL-red?style=for-the-badge&logo=alert&logoColor=white&labelColor=000000)
+![Status](https://img.shields.io/badge/Status-FIXED-success?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+
+**اكتشف وحلل وأصلح ثغرة أمنية حرجة**  
+Discovered, analyzed, and remediated  
+a critical security vulnerability
+
+</td>
+<td align="center" width="50%">
+
+#### 🤝 **The Partnership** | الشراكة
+
+![MSRC](https://img.shields.io/badge/Microsoft-MSRC-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000)
+![Disclosure](https://img.shields.io/badge/Responsible-Disclosure-success?style=for-the-badge&logo=lock&logoColor=white&labelColor=000000)
+![Public](https://img.shields.io/badge/Public-Fix_Available-green?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+
+**تنسيق مع مركز الاستجابة الأمنية من Microsoft**  
+Coordinated with Microsoft Security  
+Response Center (MSRC)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 **Vulnerability Impact** | تأثير الثغرة
+
+<table align="center">
+<tr>
+<th>🎯 Category | الفئة</th>
+<th>📈 Rating | التقييم</th>
+<th>⚠️ Impact | التأثير</th>
+</tr>
+<tr>
+<td align="center"><b>🔴 Severity</b><br/>الخطورة</td>
+<td align="center">
+<img src="https://img.shields.io/badge/CRITICAL-9.8/10-critical?style=flat-square&logo=alert"/>
+</td>
+<td>High-risk systems exposed</td>
+</tr>
+<tr>
+<td align="center"><b>🌍 Scope</b><br/>النطاق</td>
+<td align="center">
+<img src="https://img.shields.io/badge/GLOBAL-Worldwide-blue?style=flat-square&logo=earth"/>
+</td>
+<td>Affects global infrastructure</td>
+</tr>
+<tr>
+<td align="center"><b>👥 Users Affected</b><br/>المتأثرين</td>
+<td align="center">
+<img src="https://img.shields.io/badge/THOUSANDS-Estimated-orange?style=flat-square&logo=users"/>
+</td>
+<td>Multiple organizations impacted</td>
+</tr>
+<tr>
+<td align="center"><b>✅ Status</b><br/>الحالة</td>
+<td align="center">
+<img src="https://img.shields.io/badge/PATCHED-Fixed-success?style=flat-square&logo=check"/>
+</td>
+<td>Public fix available</td>
+</tr>
+</table>
+
+---
+
+### 🎖️ **Recognition Timeline** | الجدول الزمني
+
+```mermaid
+timeline
+    title CVE-2024-3727 Discovery & Disclosure
+    section Discovery
+        2024-Q1 : Vulnerability Identified
+               : Initial Analysis
+    section Coordination
+        2024-Q2 : MSRC Notification
+               : Technical Documentation
+               : Reproduction Steps
+    section Resolution
+        2024-Q3 : Patch Development
+               : Security Testing
+               : Quality Assurance
+    section Public
+        2024-Q4 : Public Disclosure
+               : GitHub Documentation
+               : CVE Assignment
+```
+
+---
+
+### 🔗 **Resources & Documentation** | الموارد والتوثيق
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/📄_Full_Documentation-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asrar-mared/CVE-2024-3727)
+[![CVE](https://img.shields.io/badge/🔐_CVE_Details-Official_Database-critical?style=for-the-badge&logo=security&logoColor=white)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-3727)
+[![MSRC](https://img.shields.io/badge/🛡️_MSRC_Case-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://msrc.microsoft.com/)
+
+**📚 Technical Details Available:**
+- Vulnerability Description
+- Proof of Concept
+- Mitigation Steps
+- Patch Information
+
+</div>
+
+---
+## 📊 GitHub Stats
+
+![Stats Dark](./profile/stats-dark.svg#gh-dark-mode-only)
+![Stats Light](./profile/stats-light.svg#gh-light-mode-only)
+
+---
+
+### 🏅 **Achievement Badges** | شارات الإنجاز
+
+<div align="center">
+
+![Security Researcher](https://img.shields.io/badge/🎖️-Security_Researcher-FFD700?style=for-the-badge&labelColor=000000)
+![CVE Certified](https://img.shields.io/badge/✅-CVE_Certified-success?style=for-the-badge&labelColor=000000)
+![MSRC Partner](https://img.shields.io/badge/🤝-MSRC_Partner-0078D4?style=for-the-badge&labelColor=000000)
+![Critical Fix](https://img.shields.io/badge/🛡️-Critical_Fix-DC143C?style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+### 💬 **What This Means** | ماذا يعني هذا
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🔍 **Discovery**
+
+<img src="https://img.icons8.com/clouds/100/000000/search.png"/>
+
+**Found the Needle**  
+في كومة قش ضخمة، وجد الإبرة
+
+Identified a critical flaw that  
+thousands couldn't spot
+
+</td>
+<td width="33%" align="center">
+
+#### 🤝 **Responsibility**
+
+<img src="https://img.icons8.com/clouds/100/000000/handshake.png"/>
+
+**Did It Right**  
+فعلها بالطريقة الصحيحة
+
+Responsible disclosure  
+protecting users worldwide
+
+</td>
+<td width="33%" align="center">
+
+#### 🛡️ **Impact**
+
+<img src="https://img.icons8.com/clouds/100/000000/security-checked.png"/>
+
+**Made It Safer**  
+جعل العالم أكثر أماناً
+
+Fixed vulnerability protecting  
+critical infrastructure
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 **Why This Matters** | لماذا هذا مهم
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🌟 This isn't just a number - it's a commitment to security   │
+│     ليس مجرد رقم - إنه التزام بالأمان                         │
+│                                                                 │
+│  💪 Proves expertise in discovering real-world threats         │
+│     يثبت الخبرة في اكتشاف التهديدات الحقيقية                 │
+│                                                                 │
+│  🤝 Demonstrates collaboration with industry leaders           │
+│     يوضح التعاون مع قادة الصناعة                              │
+│                                                                 │
+│  🛡️ Contributes to making the internet safer for everyone     │
+│     يساهم في جعل الإنترنت أكثر أماناً للجميع                 │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+### 🌟 **Hall of Fame** | قاعة المشاهير
+
+<div align="center">
+
+**🏆 Recognized Security Researcher**
+
+This discovery has been officially recognized by:
+
+✅ **CVE Program** - Common Vulnerabilities and Exposures  
+✅ **Microsoft MSRC** - Security Response Center  
+✅ **Security Community** - Global Recognition
+
+---
+
+**"One researcher, one discovery, thousands protected"**  
+**"باحث واحد، اكتشاف واحد، آلاف محميون"**
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Security%20First&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+
+</div>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║         🎖️ LEGENDARY SECURITY RESEARCHER 🎖️             ║
+║                                                          ║
+║  🌟 Perks Unlocked:                                     ║
+║                                                          ║
+║  ✅ Instant credibility at conferences                  ║
+║  ✅ "The CVE Guy" nickname                              ║
+║  ✅ Free coffee from impressed developers               ║
+║  ✅ أم كلثوم plays when you enter rooms                ║
+║  ✅ LinkedIn blows up                                   ║
+║  ✅ Eternal bragging rights                             ║
+║  ✅ MSRC on your resume                                 ║
+║  ✅ شكلك ثاني status: PERMANENT                        ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+<div align="center">
+
+**🎵 "شكلك ثاني لما معاك CVE" 🎵**
+
+![Legendary](https://img.shields.io/badge/Status-🎖️_LEGENDARY-FFD700?style=for-the-badge&labelColor=000000)
+![Um Kalthoum Approved](https://img.shields.io/badge/🎵_أم_كلثوم-Approved-success?style=for-the-badge&labelColor=000000)
+![Respect](https://img.shields.io/badge/Respect-∞-critical?style=for-the-badge&labelColor=000000)
+
+**مبروووووك يا أسطورة! 🎉🎖️👑**
+
+</div>
+
+
 <a href="https://hellogithub.com/repository/Snapchat/Valdi" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=9b3f71b9861f412fa50f2b1566914966&claim_uid=udQbL6DilJY5ajF&theme=dark" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 # 🚀 Welcome to My Digital Universe
 
@@ -8,9 +287,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Innovation+Explorer)
 
 </div>
-
----
-
 # 🧞‍♂️ أسرار المحارب الرقمي للأمن السيبراني 🛡️
 
 <img src="https://raw.githubusercontent.com/asrar-mared /Digital-warrior-secrets/main/assets/logo.png" alt="شعار المارد الرقمي" width="400"/>
@@ -88,6 +364,7 @@
 ![Header Image](https://via.placeholder.com/800x300/0a0a0a/00ff00?text=Nike+49424+-+Digital+Warrior)
 
 # 💻 مطور احترافي | Professional Developer
+<img width="561" height="955" alt="1000437649" src="https://github.com/user-attachments/assets/d8f0c746-ab70-4b60-8d9e-bd85841bf4b7" />
 
 **🛡️ منصة الأمن السيبراني الأقوى في العالم العربي 🛡️**
 
